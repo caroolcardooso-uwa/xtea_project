@@ -1,0 +1,9 @@
+# Ignore BAM files
+*.bam
+
+reference_files/
+
+input_data/
+
+
+xTea/
